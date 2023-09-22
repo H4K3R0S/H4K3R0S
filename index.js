@@ -4,9 +4,9 @@ const core = require('@actions/core');
 const github = require('@actions/github');
 const fs = require('fs');
 
-const GITHUB_TOKEN = core.getInput("GITHUB_TOKEN");
-const FILEPATH = core.getInput("image_path");
-const THM_USERNAME = core.getInput("username");
+const GITHUB_TOKEN = core.getInput("940714baedcbf541eda88f61");
+const FILEPATH = core.getInput("assets/thm_propic.png");
+const THM_USERNAME = core.getInput("H4K3R9S");
 
 /*
  * Executes a command and returns its result as promise

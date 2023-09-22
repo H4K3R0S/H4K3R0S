@@ -8,7 +8,7 @@ inputs:
     default: './assets/thm_propic.png'
     required: false
   username:
-    description: 'Try Hack Me username'
+    description: 'H4K3R9S'
     required: true
   committer_username:
     description: 'username of committing bot'
@@ -16,7 +16,7 @@ inputs:
     required: false
   committer_email:
     description: 'email of committing bot'
-    default: 'p4p1@thm.bot'
+    default: 'H4K3R0S@thm.bot'
     required: false
   commit_message:
     description: 'message of committing bot'

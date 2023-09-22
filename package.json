@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p4p1/tryhackme-workflow.git"
+    "url": "git+https://github.com/H4K3R0S/tryhackme-workflow.git"
   },
-  "author": "p4p1",
+  "author": "H4K3R0S",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/p4p1/tryhackme-workflow/issues"
+    "url": "https://github.com/H4K3R0S/tryhackme-workflow/issues"
   },
-  "homepage": "https://github.com/p4p1/tryhackme-workflow#readme",
+  "homepage": "https://github.com/H4K3R0S/tryhackme-workflow#readme",
   "devDependencies": {
     "eslint": "^8.0.1"
   },
