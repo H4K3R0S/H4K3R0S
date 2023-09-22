@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: ./
         with:
-          username: "H4K3R9S"
+          username: "H4K3R0S"
           GITHUB_TOKEN: ${{secrets.940714baedcbf541eda88f61}}
