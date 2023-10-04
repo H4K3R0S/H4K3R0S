@@ -4,7 +4,7 @@
 
 I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities and ensuring digital security.My mission is to shed light on the dark corners of the digital Dimensions. With skills of forensics, OSINT or OWASP. Guarding the digital realm, venturing through the digital twilight, I enchant in the pulse-pounding cyber hunt for bug bounty, unmasking cybercrimes or uncovering hidden info & driving them to the illumination of true.
 
-   <p align="left">
+<!--   <p align="left">
       <a href="https://www.youtube.com/c/h4k3r0s?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/h4k3r0s">
@@ -14,7 +14,7 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
       <a href="https://github.com/h4k3r0s?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+-->
 ---
 
 ### 🧰 Languages and Tools
