@@ -53,7 +53,7 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
 ### 📊 My hacker Status
 <h3 align="center">📊 My Hacker Status</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/H4K3R0S.png" alt="TryHackMe Badge">
 </p>
 
