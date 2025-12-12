@@ -51,7 +51,7 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
 <br>
 
 ### 📊 My hacker Status
-![tryhackme stats](https://raw.githubusercontent.com/H4K3R0S/H4K3R0S/master/assets/thm_propic.png)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1138785" style='border:none;'></iframe>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
