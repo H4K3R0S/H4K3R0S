@@ -1,6 +1,6 @@
 # 101 H4K3R0S 010
 
-**' Hacker | WAST | Bug Bounty Hunter | Forensic Expert | OSINT Spec`**
+**` Hacker | WAST | Bug Bounty Hunter | Forensic Expert | OSINT Spec`**
 
 I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities and ensuring digital security. My mission is to shed light on the dark corners of the digital Dimensions. With skills of forensics, OSINT or OWASP. Guarding the digital realm, venturing through the digital twilight, I enchant in the pulse-pounding cyber hunt for bug bounty, unmasking cybercrimes or uncovering hidden info & driving them to the illumination of true.
 
