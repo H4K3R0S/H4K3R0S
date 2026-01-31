@@ -53,7 +53,8 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
 ### 📊 My hacker Status
 <h3 align="center">📊 My Hacker Status</h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/H4K3R0S.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1138785" style='border:none;'></iframe>
+
 
 
 
