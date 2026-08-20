@@ -68,8 +68,19 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
 #
 
 <details>
- <summary><h3>👨‍💻 H4K3R0S Pathaway throw to cyber realm</h3></summary>
-   My foray into the tech realm began at the tender age of 4, navigating the landscapes of Chinese game consoles such as the Commodore 64. By 5, I was grappling with my first Pentium computer, a device that I inadvertently broke a couple of times. Oddly enough, these mishaps ignited my passion for problem-solving, with guidance from a repairman in the absence of internet access. Amidst recurrent computer breakdowns, I honed my troubleshooting skills. In my formative years, I immersed myself in technology magazines equipped with CDs, eager to learn HTML, CSS, C, and Linux systems. Simultaneously, I enrolled in Informatics classes at school, where my pace outstripped the curriculum; I absorbed more in the initial 1-2 months with my computer than in the entire school term. Despite a burgeoning interest in programming, limited resources pose a challenge. Post-school, facing financial constraints for college, I took on a myriad of demanding jobs for survival, occasionally repairing computers and assisting friends with software. It wasn't until the age of 23 that I gained internet access, utilizing an aging laptop to expand my knowledge. Over the years, my exploration extended to JavaScript, Python, and the  Linux & Windows Administration, Networking, Forensics, OSINT... As of 2023, my focus has shifted to cybersecurity, where daily victories mark my journey into unraveling the mysteries of the hackers world.
+ <summary><h3>👨‍💻 H4K3R0S Pathway Through the Cyber Realm</h3></summary>
+
+My foray into the tech realm began at the tender age of 4, navigating the landscapes of retro game consoles. By 5, I was grappling with my first Pentium computer—a device I inadvertently broke a couple of times. Oddly enough, those mishaps ignited my passion for problem-solving. Working alongside a local repairman, and in the complete absence of internet access, I honed my troubleshooting skills through recurrent hardware and system breakdowns.
+
+In my formative years, I immersed myself in technology magazines equipped with CDs, teaching myself HTML, CSS, C, and Linux systems. When I enrolled in school informatics classes, my pace quickly outstripped the standard curriculum; I had absorbed more on my own in the first two months than the school offered in an entire term. 
+
+Despite my burning interest in engineering, limited resources posed a challenge. Facing financial constraints that blocked my path to college, I took on a myriad of demanding, labor-intensive jobs for survival, while occasionally repairing computers and assisting friends with software on the side. 
+
+It wasn’t until the age of 23 that I finally gained stable internet access, utilizing an aging laptop to relentlessly expand my knowledge. Over the years, my exploration extended into JavaScript, Python, Linux & Windows Administration, Networking, Forensics, and OSINT. By 2023, my focus shifted heavily to cybersecurity, where daily victories now mark my ongoing journey into unraveling the mysteries of the hacker world.
+
+---
+</details>
+
 
 
 [youtube]: https://youtube.com/h4k3r0s
