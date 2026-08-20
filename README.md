@@ -72,11 +72,25 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
 
 My foray into the tech realm began at the tender age of 4, navigating the landscapes of retro game consoles. By 5, I was grappling with my first Pentium computer—a device I inadvertently broke a couple of times. Oddly enough, those mishaps ignited my passion for problem-solving. Working alongside a local repairman, and in the complete absence of internet access, I honed my troubleshooting skills through recurrent hardware and system breakdowns.
 
-In my formative years, I immersed myself in technology magazines equipped with CDs, teaching myself HTML, CSS, C, and Linux systems. When I enrolled in school informatics classes, my pace quickly outstripped the standard curriculum; I had absorbed more on my own in the first two months than the school offered in an entire term. 
+In my formative years, I immersed myself in technology magazines equipped with CDs, teaching myself HTML, CSS, C, and Linux systems. When I enrolled in school informatics classes, my pace quickly outstripped the standard curriculum; I had absorbed more on my own in the first two months than the school offered in an entire term. Despite my burning interest in engineering, limited resources posed a challenge, and financial constraints blocked my path to college.
 
-Despite my burning interest in engineering, limited resources posed a challenge. Facing financial constraints that blocked my path to college, I took on a myriad of demanding, labor-intensive jobs for survival, while occasionally repairing computers and assisting friends with software on the side. 
+**The Grind & Survival (2022 - 2025):**
+In April 2022, my life changed heavily when my father passed away. For survival, I entered a cycle of demanding, labor-intensive jobs, constantly moving between cities. I worked on fire protection piping systems, did heavy construction, and serviced AC units. By mid-2023, I launched my own private lawn-mowing business, but finding time for IT was a constant battle. During the winters, I pushed through shifts as a warehouse worker while dedicating every spare hour to studying JavaScript. 
 
-It wasn’t until the age of 23 that I finally gained stable internet access, utilizing an aging laptop to relentlessly expand my knowledge. Over the years, my exploration extended into JavaScript, Python, Linux & Windows Administration, Networking, Forensics, and OSINT. By 2023, my focus shifted heavily to cybersecurity, where daily victories now mark my ongoing journey into unraveling the mysteries of the hacker world.
+I kept fighting for my passion. In 2024, while running my business, I managed to carve out a 3-month window to study hacking for 16 hours a day before intense physical work forced me to pause again. By summer 2025, I was back on harsh construction sites, but I made a definitive choice to reclaim my future in tech.
+
+**The Evolution & AI Architecture (2025 - Present):**
+In Autumn 2025, I enrolled in the CCNA program. I spent the brutal winter working outdoors on construction sites during the day and relentlessly studying networking blueprints at night. My classes officially started in January 2026, and by June, I successfully graduated and earned my **CCNA Certification**. 
+
+In July 2026, I began experimenting with advanced AI, instantly realizing the massive leverage it provides. This sparked the creation of my current masterwork: a modular, autonomous **AI OS Project (CORE Environment)**, building complex applications like FILMIUM and CODIUM from scratch in record time.
+
+**Roadmap for 2027:**
+I am currently transitioning fully into the Cyber Security industry as the mowing season comes to a close. My tactical roadmap for 2027 focuses on validating my practical skills through respected industry certifications:
+*   **eLearnSecurity Junior Penetration Tester (eJPTv2)** – *Immediate target to bridge network security and hands-on ethical hacking.*
+*   **HTB Certified Penetration Testing Specialist (CPTS)** – *Advanced offensive security and comprehensive red team operations.*
+*   **HTB Certified Web Exploitation Expert (CWEE)** – *Deep-dive specialization into complex web application vulnerabilities.*
+
+The hunt is just beginning.
 
 ---
 </details>
