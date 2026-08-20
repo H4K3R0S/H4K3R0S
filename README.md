@@ -61,12 +61,14 @@ A tailored software development workstation designed to supercharge productivity
 ## 🎛️ CORE OS Telemetry & Domain Previews
 
 <p align="center">
-  <img src="https://githubusercontent.com" width="19%" alt="CORE OS Dashboard" title="CORE OS Dashboard" />
-  <img src="https://githubusercontent.com" width="19%" alt="FILMIUM Domain" title="FILMIUM Domain" />
-  <img src="https://githubusercontent.com" width="19%" alt="CODIUM Domain" title="CODIUM Domain" />
-  <img src="https://githubusercontent.com" width="19%" alt="IMPERIUM Domain" title="IMPERIUM Domain" />
-  <img src="https://githubusercontent.com" width="19%" alt="KALIMA SOC Domain" title="KALIMA SOC Domain" />
+  <img src="images/core.png" width="19%" alt="CORE OS Dashboard" title="CORE OS Dashboard" />
+  <img src="images/filmium.png" width="19%" alt="FILMIUM Domain" title="FILMIUM Domain" />
+  <img src="images/codium.png" width="19%" alt="CODIUM Domain" title="CODIUM Domain" />
+  <img src="images/imperium.png" width="19%" alt="IMPERIUM Domain" title="IMPERIUM Domain" />
+  <img src="images/kalima.png" width="19%" alt="KALIMA SOC Domain" title="KALIMA SOC Domain" />
 </p>
+
+---
 
 
 
