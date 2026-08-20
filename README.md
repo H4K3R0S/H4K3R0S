@@ -54,8 +54,8 @@ A tailored software development workstation designed to supercharge productivity
 *   **OmniRoute / OneRoute Balancing**: Smart AI middleware that tracks real-time network traffic and token depletion, seamlessly hot-swapping workloads between offline local models (Ollama/Llama) and cloud APIs.
 
 ### 🔒 Restricted Private Domains:
-*   🎮 **IMPERIUM** *(In Development)* - Media and business orchestrator for stream automation, dynamic audience interaction, and AI-driven clip extraction using Whisper and FFmpeg.
-*   🛡️ **KALIMA** *(Air-Gapped / Restricted)* - Autonomous Threat Intelligence and Bug Bounty SOC. Orchestrates **70+ specialized sandboxed agents** (OSINT, Exploiters, Web Attackers) with secure mTLS communication and a self-improving CISA defense matrix. *Source code is strictly private for security reasons.*
+*   🎮 **[IMPERIUM](https://github.com/H4K3R0S/IMPERIUM)** *(In Development)* - Media and business orchestrator for stream automation, dynamic audience interaction, and AI-driven clip extraction using Whisper and FFmpeg.
+*   🛡️ **[KALIMA](https://github.com/H4K3R0S/KALIMA)** *(Air-Gapped / Restricted)* - Autonomous Threat Intelligence and Bug Bounty SOC. Orchestrates **70+ specialized sandboxed agents** (OSINT, Exploiters, Web Attackers) with secure mTLS communication and a self-improving CISA defense matrix. *Source code is strictly private for security reasons.*
 
 ---
 
