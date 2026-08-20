@@ -31,26 +31,31 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br />
-### 🧰 Specialties 
-#
 
-### 📺 Latest YouTube Videos
+---
 
-<!-- BEGIN YOUTUBE-CARDS
-[![🚀 National Coding Week just got an upgrade!](https://ytcards.demolab.com/?id=TBL6mrZGZr4&title=%F0%9F%9A%80+National+Coding+Week+just+got+an+upgrade%21&lang=en&timestamp=1695312031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=52 "🚀 National Coding Week just got an upgrade!")](https://www.youtube.com/watch?v=TBL6mrZGZr4)
-[![The Making of BSD: The ACTUAL World's First Open-Source Operating System?](https://ytcards.demolab.com/?id=tuI2wX3ol2o&title=The+Making+of+BSD%3A+The+ACTUAL+World%27s+First+Open-Source+Operating+System%3F&lang=en&timestamp=1694617242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755 "The Making of BSD: The ACTUAL World's First Open-Source Operating System?")](https://www.youtube.com/watch?v=tuI2wX3ol2o)
-[![You code on the cloud but don't understand it.](https://ytcards.demolab.com/?id=H1pmbp4gX58&title=You+code+on+the+cloud+but+don%27t+understand+it.&lang=en&timestamp=1694534421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "You code on the cloud but don't understand it.")](https://www.youtube.com/watch?v=H1pmbp4gX58)
-[![If the code works, don’t touch it.](https://ytcards.demolab.com/?id=wT07kW-aPUQ&title=If+the+code+works%2C+don%E2%80%99t+touch+it.&lang=en&timestamp=1693929644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "If the code works, don’t touch it.")](https://www.youtube.com/watch?v=wT07kW-aPUQ)
-[![I Built an AI That Feeds Me Coffee for Maximum Efficiency](https://ytcards.demolab.com/?id=tyAPu2cCOZE&title=I+Built+an+AI+That+Feeds+Me+Coffee+for+Maximum+Efficiency&lang=en&timestamp=1693404079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=539 "I Built an AI That Feeds Me Coffee for Maximum Efficiency")](https://www.youtube.com/watch?v=tyAPu2cCOZE)
-[![My Entire Computer Science Student Setup in Notion](https://ytcards.demolab.com/?id=Nv1Z3Aximdg&title=My+Entire+Computer+Science+Student+Setup+in+Notion&lang=en&timestamp=1692043807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296 "My Entire Computer Science Student Setup in Notion")](https://www.youtube.com/watch?v=Nv1Z3Aximdg)
- END YOUTUBE-CARDS 
+## 🧠 Active Cyber Engineering: The CORE OS Ecosystem
+*While managing my everyday business, I used my night shifts to complete my CCNA and engineer a modular, private AI-Driven Operating System (CORE Environment)...*
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
--->
+### 🌐 My Detached Domains (Repositories):
+*   📦 **[FILMIUM](https://github.com)** - Smart media platform...
+*   🟡 **[CODIUM](https://github.com)** - Custom development orchestrator & IDE...
 
-<br>
+### 🔒 Restricted Private Domains:
+*   🎮 **IMPERIUM** (In Development) - Media and business orchestrator...
+*   🛡️ **KALIMA** (Air-Gapped / Restricted) - Autonomous Threat Intelligence & Bug Bounty SOC...
 
-### 📊 My hacker Status
+---
+
+### 🧰 Specialties
+*   Network Security & Routing (CCNA Certified)
+*   Threat Intelligence & SIEM Log Analysis
+*   Custom Data Parsers & System Automation (Tauri / Rust / Python)
+*   OmniRoute / OneRoute AI Load Balancing
+
+---
+
+
 <h3 align="center">📊 My Hacker Status</h3>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/H4K3R0S.png" alt="Your Image Badge" />
