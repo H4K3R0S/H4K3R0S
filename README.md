@@ -61,11 +61,11 @@ A tailored software development workstation designed to supercharge productivity
 ## 🎛️ CORE OS Telemetry & Domain Previews
 
 <p align="center">
-  <img src="https://githubusercontent.com" width="19%" alt="CORE OS Dashboard" title="CORE OS Dashboard" />
-  <img src="https://githubusercontent.com" width="19%" alt="FILMIUM Domain" title="FILMIUM Domain" />
-  <img src="https://githubusercontent.com" width="19%" alt="CODIUM Domain" title="CODIUM Domain" />
+  <img src="https://githubusercontent.com](https://github.com/H4K3R0S/IMPERIUM/blob/main/screenshots/CORE_1_dashboard.png)" width="19%" alt="CORE OS Dashboard" title="CORE OS Dashboard" />
+  <img src="https://githubusercontent.com](https://github.com/H4K3R0S/FILMIUM/blob/main/screenshots/filmium_1_dashboard.png)" width="19%" alt="FILMIUM Domain" title="FILMIUM Domain" />
+  <img src="https://githubusercontent.com](https://github.com/H4K3R0S/CODIUM/blob/main/screenshots/Codium_2_Editor.png)" width="19%" alt="CODIUM Domain" title="CODIUM Domain" />
   <img src="https://githubusercontent.com" width="19%" alt="IMPERIUM Domain" title="IMPERIUM Domain" />
-  <img src="https://githubusercontent.com" width="19%" alt="KALIMA SOC Domain" title="KALIMA SOC Domain" />
+  <img src="https://githubusercontent.com](https://github.com/H4K3R0S/KALIMA/blob/main/screenshots/kalima_1_dashboard.png)" width="19%" alt="KALIMA SOC Domain" title="KALIMA SOC Domain" />
 </p>
 
 
