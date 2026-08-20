@@ -35,15 +35,27 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
 ---
 
 ## 🧠 Active Cyber Engineering: The CORE OS Ecosystem
-*While managing my everyday business, I used my night shifts to complete my CCNA and engineer a modular, private AI-Driven Operating System (CORE Environment)...*
+*While managing my everyday business and navigating intense life challenges, I leveraged my night shifts to earn my CCNA and engineer a modular, private AI-Driven Operating System (CORE Environment). Built from scratch in record time, it shatters standard development timelines.*
 
-### 🌐 My Detached Domains (Repositories):
-*   📦 **[FILMIUM](https://github.com)** - Smart media platform...
-*   🟡 **[CODIUM](https://github.com)** - Custom development orchestrator & IDE...
+### 📦 Detached Domains (Public Repositories):
+
+#### 🎥 [FILMIUM](https://github.com) — Smart Media Management Ecosystem
+An advanced, standalone media environment engineered with Tauri and React. It acts as an autonomous functional domain that automatically plugs into the CORE runtime.
+*   **Plug-and-Play Indexing**: Real-time monitoring and auto-detection of physical storage (USB arrays) with dynamic TMDB API metadata mapping.
+*   **Data Parsing Pipeline**: Automated pattern-matching scripts to extract titles/years from raw filenames, paired with deep FFmpeg video diagnostics.
+*   **The Subtitle Terminator**: A custom visual data parser that live-detects character encoding (ANSI to UTF-8), repairs timestamp drifts, and bulk-cleans malicious script links in 1-2 clicks.
+*   **File Manager & Share Engine**: Dynamic twin-panel data transfer system with built-in storage monitoring (`F:\ 1.49 TB Free`) to rapidly clone, sort, and backup entire media libraries.
+*   **Media Wishlist Tracker**: Integrated TMDB scanner to query and pre-stage future releases with active "missing from library" tracking indicators.
+
+#### 🟡 [CODIUM](https://github.com) — Custom Development Orchestrator & IDE
+A tailored software development workstation designed to supercharge productivity through agentic workflows and spatial interface layout.
+*   **Monaco Core Engine**: Full integration of the VS Code core engine supporting multiple active workspaces, native tab tiling, and instant code mapping.
+*   **Spatial Window Manager**: Tiling framework leveraging Tauri's window API to auto-detect multi-monitor setups (including vertical screens) and programmatically control code focuses and Live Previews (Web, Mobi, PC).
+*   **OmniRoute / OneRoute Balancing**: Smart AI middleware that tracks real-time network traffic and token depletion, seamlessly hot-swapping workloads between offline local models (Ollama/Llama) and cloud APIs.
 
 ### 🔒 Restricted Private Domains:
-*   🎮 **IMPERIUM** (In Development) - Media and business orchestrator...
-*   🛡️ **KALIMA** (Air-Gapped / Restricted) - Autonomous Threat Intelligence & Bug Bounty SOC...
+*   🎮 **IMPERIUM** *(In Development)* - Media and business orchestrator for stream automation, dynamic audience interaction, and AI-driven clip extraction using Whisper and FFmpeg.
+*   🛡️ **KALIMA** *(Air-Gapped / Restricted)* - Autonomous Threat Intelligence and Bug Bounty SOC. Orchestrates **70+ specialized sandboxed agents** (OSINT, Exploiters, Web Attackers) with secure mTLS communication and a self-improving CISA defense matrix. *Source code is strictly private for security reasons.*
 
 ---
 
