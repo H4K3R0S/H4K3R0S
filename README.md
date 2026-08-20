@@ -56,6 +56,19 @@ A tailored software development workstation designed to supercharge productivity
 ### 🔒 Restricted Private Domains:
 *   🎮 **[IMPERIUM](https://github.com/H4K3R0S/IMPERIUM)** *(In Development)* - Media and business orchestrator for stream automation, dynamic audience interaction, and AI-driven clip extraction using Whisper and FFmpeg.
 *   🛡️ **[KALIMA](https://github.com/H4K3R0S/KALIMA)** *(Air-Gapped / Restricted)* - Autonomous Threat Intelligence and Bug Bounty SOC. Orchestrates **70+ specialized sandboxed agents** (OSINT, Exploiters, Web Attackers) with secure mTLS communication and a self-improving CISA defense matrix. *Source code is strictly private for security reasons.*
+---
+
+## 🎛️ CORE OS Telemetry & Domain Previews
+
+<p align="center">
+  <img src="https://githubusercontent.com" width="19%" alt="CORE OS Dashboard" title="CORE OS Dashboard" />
+  <img src="https://githubusercontent.com" width="19%" alt="FILMIUM Domain" title="FILMIUM Domain" />
+  <img src="https://githubusercontent.com" width="19%" alt="CODIUM Domain" title="CODIUM Domain" />
+  <img src="https://githubusercontent.com" width="19%" alt="IMPERIUM Domain" title="IMPERIUM Domain" />
+  <img src="https://githubusercontent.com" width="19%" alt="KALIMA SOC Domain" title="KALIMA SOC Domain" />
+</p>
+
+
 
 ---
 
