@@ -39,7 +39,7 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
 
 ### 📦 Detached Domains (Public Repositories):
 
-#### 🎥 [FILMIUM]([https://github.com](https://github.com/H4K3R0S/FILMIUM)) — Smart Media Management Ecosystem
+#### 🎥 [FILMIUM](https://github.com](https://github.com/H4K3R0S/FILMIUM)) — Smart Media Management Ecosystem
 An advanced, standalone media environment engineered with Tauri and React. It acts as an autonomous functional domain that automatically plugs into the CORE runtime.
 *   **Plug-and-Play Indexing**: Real-time monitoring and auto-detection of physical storage (USB arrays) with dynamic TMDB API metadata mapping.
 *   **Data Parsing Pipeline**: Automated pattern-matching scripts to extract titles/years from raw filenames, paired with deep FFmpeg video diagnostics.
@@ -47,7 +47,7 @@ An advanced, standalone media environment engineered with Tauri and React. It ac
 *   **File Manager & Share Engine**: Dynamic twin-panel data transfer system with built-in storage monitoring (`F:\ 1.49 TB Free`) to rapidly clone, sort, and backup entire media libraries.
 *   **Media Wishlist Tracker**: Integrated TMDB scanner to query and pre-stage future releases with active "missing from library" tracking indicators.
 
-#### 🟡 [CODIUM]([https://github.com](https://github.com/H4K3R0S/CODIUM)) — Custom Development Orchestrator & IDE
+#### 🟡 [CODIUM](https://github.com](https://github.com/H4K3R0S/CODIUM)) — Custom Development Orchestrator & IDE
 A tailored software development workstation designed to supercharge productivity through agentic workflows and spatial interface layout.
 *   **Monaco Core Engine**: Full integration of the VS Code core engine supporting multiple active workspaces, native tab tiling, and instant code mapping.
 *   **Spatial Window Manager**: Tiling framework leveraging Tauri's window API to auto-detect multi-monitor setups (including vertical screens) and programmatically control code focuses and Live Previews (Web, Mobi, PC).
