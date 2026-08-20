@@ -39,7 +39,7 @@ I'm a avid hacker and seasoned cybersecurity tester, exploring vulnerabilities a
 
 ### 📦 Detached Domains (Public Repositories):
 
-#### 🎥 [FILMIUM](https://github.com) — Smart Media Management Ecosystem
+#### 🎥 [FILMIUM]([https://github.com](https://github.com/H4K3R0S/FILMIUM)) — Smart Media Management Ecosystem
 An advanced, standalone media environment engineered with Tauri and React. It acts as an autonomous functional domain that automatically plugs into the CORE runtime.
 *   **Plug-and-Play Indexing**: Real-time monitoring and auto-detection of physical storage (USB arrays) with dynamic TMDB API metadata mapping.
 *   **Data Parsing Pipeline**: Automated pattern-matching scripts to extract titles/years from raw filenames, paired with deep FFmpeg video diagnostics.
